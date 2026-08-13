@@ -59,7 +59,7 @@ Department of Information Technology, Xavier Institute of Engineering
 | Shravani Jadhav | 18 |
 | Priyadarshini Sandilyan | 34 |
 
-**Guided by:** Prof. Sulochna Ma'am (Prof. Jaya Jeswani co-authors the associated publications)
+**Guided by:** Prof. Jaya Jeswani 
 
 ---
 
@@ -399,10 +399,9 @@ npm start
 
 ## 🙏 Acknowledgements
 
-- **Prof. Sulochna Ma'am** — Project Guide
 - **Department of Information Technology, Xavier Institute of Engineering** (An Autonomous Institute under Mumbai University)
 - **IMD (India Meteorological Department)** and **ECMWF (ERA5 reanalysis)** for the datasets that made this project possible
 
 ## 📝 License
 
-This project was developed as a BE Major Project. Add your preferred open-source license (e.g., MIT, Apache 2.0) here before publishing.
+This project was developed as a BE Major Project.
