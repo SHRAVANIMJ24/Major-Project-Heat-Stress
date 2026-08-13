@@ -122,6 +122,11 @@ The IMD pipeline runs through six stages — data collection, merging & quality 
 - **Train:** ≤ 2005 (historical data)
 - **Validation:** 2006–2015 (parameter tuning)
 - **Test:** 2016–2025 (unseen future data)
+### End-to-end methodology (ERA5 pipeline)
+
+The ERA5 pipeline runs through twelve stages — data ingestion & unit correction, feature engineering (70+ features), exploratory data analysis, a temporal split with 5-fold time-series cross-validation, three parallel modeling tracks (classical ML, DL time-series, and a DNN CW-BBAG classifier), Optuna hyperparameter optimization with conformal prediction intervals, comprehensive model evaluation, a 30-day future WBGT forecast, a 6-layer forecast validation/calibration stage, saved results, and a final summary of findings.
+
+![ERA5 Methodology Flowchart](assets/era5.png)
 
 ### Full system pipeline (ERA5 + IMD → dashboard)
 
