@@ -299,7 +299,7 @@ Detailed per-model comparison charts, confusion matrices, and validation tables:
 ---
 
 ## 🖥️ Dashboard / Demo
-
+**steps to start the dashboard here:**
 The trained models are served through a **Mumbai Heat Stress Classification & Prediction Dashboard** (React + Recharts frontend, Flask API backend on Colab via ngrok) offering three modules: live HI classification, 30-day WBGT forecasting, and HI–pollution correlation.
 
 ![Dashboard Home](assets/01-dashboard-home.jpg)
