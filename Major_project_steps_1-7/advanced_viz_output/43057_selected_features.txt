@@ -1,0 +1,16 @@
+SELECTED FEATURES — Station 43057
+==================================================
+
+ 1. DBT
+ 2. WBT
+ 3. VPD
+ 4. VP
+ 5. DPT
+ 6. Temp_RH
+ 7. FFF
+ 8. Month_cos
+ 9. Hour_cos
+10. WBD
+
+Methods: Pearson, MI, ANOVA-F, RF, GB, SHAP
+Aggregation: Mean normalized score
